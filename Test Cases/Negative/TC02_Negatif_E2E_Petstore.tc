@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Negatif_E2E_Petstore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d4b6a6a-f01a-4184-b938-b414f5e455dc</testCaseGuid>
+</TestCaseEntity>
